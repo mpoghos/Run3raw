@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "AnalData_TED.C": "cpp",
+        "AnalData_TEDwithClusterizer.C": "cpp"
+    }
+}

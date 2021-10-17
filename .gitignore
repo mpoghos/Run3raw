@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+#myDef
+*.raw
+*.root
+*.pcm
+data/
